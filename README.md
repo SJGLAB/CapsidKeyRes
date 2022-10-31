@@ -10,7 +10,7 @@
 ## Overview of project
 
 **1. Overview**
-* The code is based on icosahedral virus capsids, the width of the channel was selected as an internal coordinate directly related to the channel opening, and then the elastic network model (ENM) combined with group theory were employed to extract the intrinsic motion modes that mostly contribute to the opening of the 2-fold channels. An internal-coordinate-based perturbation method was used to identify the key residues regulating the 2-fold channel opening of PV.
+* The code is to investigate the intrinsic motions and identify the key residues controlling the two-fold channel opening of the capsid of the poliovirus (PV), which has an icosahedral symmetrical structure. In our method, the width of the channel was selected as an internal coordinate directly related to the two-fold channel opening, and then the elastic network model (ENM) combined with group theory were employed to extract the intrinsic motion modes that mostly contribute to the opening of the two-fold channels. Then, an internal-coordinate-based perturbation method was used to identify the key residues regulating the two-fold channel opening of PV.
 
 **2. Objectives**
 * This study is helpful for better understanding the 2-fold channel opening mechanism and provides a potential target for preventing the opening of the channels, which is of great significance for PV vaccine design.
