@@ -18,6 +18,6 @@
 ## Data
 * In this study, the nature empty PV particle (PDB code: 1POV) was studied by using the elastic network model combined with our internal-coordinate-based perturbation method. PDB download at https://www.rcsb.org/.
 
-## code
+## Code
 * 'Maincode' is a main code, others are subcodes.
 
