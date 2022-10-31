@@ -1,4 +1,4 @@
-# uncoating
+# CapsidKeyRes
 ## Title
 **Identification of the intrinsic motions and related key residues with icosahedral virus capsids**
 
